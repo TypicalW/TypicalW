@@ -1,5 +1,5 @@
 <h1 align="center">Wassup Folks,I'm Ashmit Mishra</h1>
-<h3 align="center">A Motivated And Dec</h3>
+<h3 align="center">A Motivated And Dedicated Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=typicalw&label=Profile%20views&color=0e75b6&style=flat" alt="typicalw" /> </p>
 
