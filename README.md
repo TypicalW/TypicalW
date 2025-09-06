@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python & Java**
 
-- 📝 I regularly write articles on [https://dusk177.wordpress.com/](https://dusk177.wordpress.com/)
+- 📝 I regularly write articles on [medium.com/@ashmitmishra](https://medium.com/@ashmitmishra)
 
 - 📫 How to reach me **ashmit1665@gmail.com**
 
