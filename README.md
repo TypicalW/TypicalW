@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=typicalw" alt="typicalw" /></a> </p>
 
-- 🌱 I’m currently learning **Python & Java**
+- 🌱 Building skills in Machine Learning, Web Development, and Java-based Backend Systems.
 
 - 📝 I regularly write articles on [medium.com/@ashmitmishra](https://medium.com/@ashmitmishra)
 
