@@ -31,9 +31,6 @@ I am a final-year Electronics and Communications engineering student focused on 
 
 ### Engineering Insights & Metrics
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=typicalw&theme=onedark&column=4" alt="typicalw trophies" /></a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=typicalw&theme=tokyonight" alt="typicalw streak" />
